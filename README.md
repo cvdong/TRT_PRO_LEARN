@@ -1,7 +1,4 @@
-:alien: 总结的很到位：
-
-摘自：[trt_learn](https://github.com/wangzyon/trt_learn)
-
+:alien: 
 
 # 目录
 [1 概述](#chapter1)
@@ -2230,7 +2227,7 @@ int8 标定的理解： 对于图像 A，经过 float32 推理后得到 p1, 再�
 <a id="chapter8"></a>
 
 
-REPO参考：
+REPO摘自：
 
 [trt_learn](https://github.com/wangzyon/trt_learn)
 
